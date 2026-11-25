@@ -5,13 +5,10 @@
 
 # invite-to.me
 
-Free `yourname.invite-to.me` addresses for Discord bots, servers and side projects.
+We are a free subdomain service providing `.invite-to.me` subdomains for everyone!
 
-- **Redirect** it to your bot invite, your server invite or any https link
-- **Or point it at your own site** with CNAME, A, AAAA or TXT records
-- Up to **5 names** per account, free, no ads
-- Link previews on Discord show your name, not a random URL
+Whether you're building a website, portfolio, Discord bot, community or side project, we've got you covered. Point your name at your bot or server invite, at any link, or at your own site with DNS records. Up to 5 names per account, no ads, no catch.
 
-Claim one on **[invite-to.me](https://invite-to.me)**, or register it with a pull request in **[register](https://github.com/invite-to-me/register)**.
+Claim your free subdomain on our [website](https://invite-to.me) or through our [GitHub repository](https://github.com/invite-to-me/register)!
 
-Something on an invite-to.me address looks like a scam? [Report it](https://invite-to.me/report).
+Spotted something shady on an invite-to.me address? [Let us know](https://invite-to.me/report).
