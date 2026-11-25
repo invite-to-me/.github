@@ -1,9 +1,17 @@
-![invite-to.me](invite-to-me-banner.png)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="banner-dark.png">
+  <img alt="invite-to.me: free web addresses for discord bots, servers and side projects" src="banner-light.png">
+</picture>
 
 # invite-to.me
 
-We are a free subdomain service providing `.invite-to.me` subdomains for everyone!
+Free `yourname.invite-to.me` addresses for Discord bots, servers and side projects.
 
-Whether you're building a website, portfolio, Discord bot, community or side project, we've got you covered.
+- **Redirect** it to your bot invite, your server invite or any https link
+- **Or point it at your own site** with CNAME, A, AAAA or TXT records
+- Up to **5 names** per account, free, no ads
+- Link previews on Discord show your name, not a random URL
 
-Claim your free subdomain on our [website](https://invite-to.me) or through our [GitHub repository](https://github.com/invite-to-me/register)!
+Claim one on **[invite-to.me](https://invite-to.me)**, or register it with a pull request in **[register](https://github.com/invite-to-me/register)**.
+
+Something on an invite-to.me address looks like a scam? [Report it](https://invite-to.me/report).
