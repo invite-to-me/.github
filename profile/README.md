@@ -1,4 +1,4 @@
-![invite-to.me](banner.png)
+![invite-to.me](invite-to-me-banner.png)
 
 # invite-to.me
 
